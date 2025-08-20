@@ -1,0 +1,10 @@
+﻿* text=auto
+*.swift text eol=lf
+*.plist text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+# Xcode project files should not be altered by line-ending filters
+*.xcodeproj -text
+*.xcworkspace -text
